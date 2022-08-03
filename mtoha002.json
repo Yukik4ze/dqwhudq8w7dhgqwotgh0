@@ -1,0 +1,12 @@
+{
+  "add": "orajp2.xray.my.id",
+  "port": "80",
+  "host": "104.18.10.39",
+  "id": "74e4bd2b-5582-4376-b1f1-e395dbbb2ec5",
+  "net": "ws",
+  "path": "/xrayws",
+  "ps": "mtoha02",
+  "tls": "tls",
+  "type": "none",
+  "v": "2"
+}
